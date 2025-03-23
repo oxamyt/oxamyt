@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Oxamyt</h1>
+<h1 align="center">👋 Hi, I'm Danylo</h1>
 <h3 align="center">A passionate full-stack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png" width="18"/> Ukraine</h3>
 
 ###
