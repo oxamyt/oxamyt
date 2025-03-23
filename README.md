@@ -14,18 +14,29 @@
 ### 🚀 Featured Projects
 
 ### Nexora Verse
-[![Nexora-Verse](https://camo.githubusercontent.com/84ae4e182b2ae4de1beb0d94f83cde47d26fb72377db0376c194b3677fa033c5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6465686f69646c6f302f696d6167652f75706c6f61642f76313734323134393330322f6e65786f7261253230696d616765732f7a6f64753870677563766876683463716d696a692e706e67)](https://github.com/oxamyt/nexora-verse-backend)
+<details>
+  <summary>🔹 Click to expand</summary>
+  <a href="https://github.com/oxamyt/nexora-verse-backend">
+    <img src="https://camo.githubusercontent.com/84ae4e182b2ae4de1beb0d94f83cde47d26fb72377db0376c194b3677fa033c5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6465686f69646c6f302f696d6167652f75706c6f61642f76313734323134393330322f6e65786f7261253230696d616765732f7a6f64753870677563766876683463716d696a692e706e67" alt="Nexora-Verse Screenshot">
+  </a>
+</details>
 
 **Tech Stack**: React, React Router, Vitest, Tailwind, Cloudinary, Multer, Node.js, Supertest, PostgreSQL, Socket.IO, Prisma ORM, oAuth, Zod  
 
 **Description**: RESTful API backend for Nexora Verse social platform, featuring real-time capabilities and secure authentication.
 
 ### Spot Quest
-[![Spot Quest](https://camo.githubusercontent.com/d4075af8bd236e844064981b1fd67d5b264ab3e74b1a4825eb81fa8174fc3242/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6465686f69646c6f302f696d6167652f75706c6f61642f76313733313835373930382f70686f746f2d74616767696e672d6170702f6c7672677561697432366c6a376169767a6a68722e706e67)](https://github.com/oxamyt/photo-tagging-app-frontend)
+<details>
+  <summary>🔹 Click to expand</summary>
+  <a href="https://github.com/oxamyt/photo-tagging-app-frontend">
+    <img src="https://camo.githubusercontent.com/d4075af8bd236e844064981b1fd67d5b264ab3e74b1a4825eb81fa8174fc3242/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6465686f69646c6f302f696d6167652f75706c6f61642f76313733313835373930382f70686f746f2d74616767696e672d6170702f6c7672677561697432366c6a376169767a6a68722e706e67" alt="Spot Quest Screenshot">
+  </a>
+</details>
 
-**Tech Stack**: React, React Router, Vitest, Tailwind, Cloudinary, Node.js, Supertest, PostgreSQL, Prisma ORM
+**Tech Stack**: React, React Router, Vitest, Tailwind, Cloudinary, Node.js, Supertest, PostgreSQL, Prisma ORM  
 
 **Description**: An exciting game where you embark on a search for hidden characters within beautifully crafted scenes.
+
 
 
 ### 🛠️ Tech Stack
@@ -59,14 +70,12 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxamyt&show_icons=true&theme=radical&rank_icon=github" height="150" alt="Oxamyt's GitHub Activity Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oxamyt&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="150" alt="Oxamyt's GitHub Activity Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxamyt&layout=compact&theme=radical&hide_border=true" height="150" alt="Oxamyt's GitHub Languages" />
-  <img src="https://streak-stats.demolab.com?user=oxamyt&theme=radical&fire=DD472D" height="150" alt="Oxamyt's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=oxamyt&theme=radical&fire=DD472D&hide_border=true" height="150" alt="Oxamyt's GitHub Streak" />
 </div>
 
-### 🤝 Let's Build Something Amazing!
-
-📫 **Reach out**: I'm always open to discussing collaborations, mentorship, or tech chats!
+### 🤝 Contact me:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/danylo-hudych-696177358/" target="_blank">
